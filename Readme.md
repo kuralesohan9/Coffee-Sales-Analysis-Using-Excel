@@ -1,4 +1,4 @@
-````markdown
+
 # Coffee Sales Analysis
 
 ## 📌 Project Overview
@@ -26,7 +26,7 @@ I have built relationships between these sheets using lookup formulas to create 
    ```excel
    =INDEX(products!$A$1:$G$49, MATCH(orders!$D2, products!$A$1:$A$49, 0), MATCH(orders!I$1, products!$A$1:$G$1, 0))
    ```
-````
+
 
 2. **Sales Calculation**
 
