@@ -73,7 +73,7 @@ An interactive **Coffee Sales Dashboard** created using Pivot Tables and Slicers
 1. Download or clone this repository:
 
    ```bash
-   git clone https://github.com/kuralesohan9/Coffee-Sales-Analysis.git
+   git clone https://github.com/kuralesohan9/Coffee-Sales-Analysis-Using-Excel.git
    ```
 
 2. Open **Coffee_Sales_Dashboard.xlsx** in Excel.
